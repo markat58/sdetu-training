@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Kathy
+ *
+ */
+module javaTraining {
+}
